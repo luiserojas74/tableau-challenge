@@ -16,7 +16,7 @@ Created by: Luis E. Rojas
 
 
 - ### The workbook's link for this project is [here](https://public.tableau.com/views/CitiBikeAnalytics_16208735130000/CitiBikeStory?:language=en&:display_count=y&publish=yes&:origin=viz_share_link).
-- The main tool I used on this project is Tableau Public [Tableau](https://public.tableau.com/).
+- The main tool I used on this project is [Tableau Public](https://public.tableau.com/).
 
 
 ## Overview
@@ -38,9 +38,9 @@ I built a total of 27 worksheets, 7 dashboards and 1 story. Below is the story, 
 <img src="https://i.ibb.co/0qQ8TMN/story1.png" width="600" height="400">
 
 Here, as we can notice:
--There are more subscribers than regular customers.
--Since the beginning of the pandemics the ridership has decreased 69%
--There was a high peak between August and October, perhaps caused by the closure of most businesses.
+- There are more subscribers than regular customers.
+- Since the beginning of the pandemics the ridership has decreased 69%
+- There was a high peak between August and October, perhaps caused by the closure of most businesses.
 
 <img src="https://i.ibb.co/gZ0KJVJ/story2.png" width="600" height="400">
 
