@@ -1,4 +1,4 @@
-# Analyzing NYC’s Citi Bike
+# Analyzing New York Citi Bike
 
 ## About
 
@@ -13,7 +13,7 @@ Created by: Luis E. Rojas
 
 
 
-- ### The link for the workbook for this project is [here](https://public.tableau.com/profile/luis.rojas3315#!/vizhome/CitiBikeAnalytics_16208735130000/BirthYear?publish=yes).
+- ### The workbook's link for this project is [here](https://public.tableau.com/profile/luis.rojas3315#!/vizhome/CitiBikeAnalytics_16208735130000/BirthYear?publish=yes).
 - The main tool I used on this project is Tableau Public [Tableau] (https://public.tableau.com/).
 
 
@@ -21,7 +21,7 @@ Created by: Luis E. Rojas
 
 <img src="https://i.ibb.co/FWn6TW6/Bikes.jpg" width="600" height="400">
 
-Every month, CitiBike releases a treasure trove of data that includes information on each individual trip (e.g. duration, start and end location, subscription type, gender of rider). The data is available here - http://www.citibikenyc.com/system-data. I pulled data to study the behavior during 12 months of the covid-19 pandemics (apr’20 to mar’21). I merged the twelve files since they had similar layout. It was a massive dataset that contained over 19 million records. 
+Every month, Citi Bike releases a treasure trove of data that includes information on each individual trip (e.g. duration, start and end location, subscription type, gender of rider). The data is available here - http://www.citibikenyc.com/system-data. I pulled data to study the behavior during 12 months of the covid-19 pandemics (apr’20 to mar’21). I merged the twelve files since they had similar layout. It was a massive dataset that contained over 19 million records. 
 
 <img src="https://i.ibb.co/1R0JjVw/union.png" width="600" height="400">
 
@@ -29,7 +29,29 @@ However, there is a limit of 15 million records handled by the Tableu Public ser
 
 <img src="https://i.ibb.co/G5wRfMw/cleanup.png" width="600" height="400">
 
-   
+## Who rides Citi Bikes?
+
+I built a total of 27 worksheets, 7 dashboards and 1 story. Below is the story, which contains a summary of the most important phenomenas.
+
+<img src="https://i.ibb.co/0qQ8TMN/story1.png" width="600" height="400">
+
+Here, as we can notice:
+-There are more subscribers than regular customers.
+-Since the beginning of the pandemics the ridership has decreased 69%
+-There was a high peak between August and October, perhaps caused by the closure of most businesses.
+
+<img src="https://i.ibb.co/gZ0KJVJ/story2.png" width="600" height="400">
+
+<img src="https://i.ibb.co/VH71BLC/story3.png" width="600" height="400">
+
+<img src="https://i.ibb.co/w4hZ8j4/story4.png" width="600" height="400">
+
+<img src="https://i.ibb.co/Hxzdw9r/story5.png" width="600" height="400">
+
+<img src="https://i.ibb.co/M9dRYP2/story6.png" width="600" height="400">
+
+<img src="https://i.ibb.co/VHwmCTB/story7.png" width="600" height="400">
+
 ## **_The original text of the homework assignment:_** 
 # Tableau Homework - Citi Bike Analytics
 
