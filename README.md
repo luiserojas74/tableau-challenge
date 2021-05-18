@@ -13,8 +13,8 @@ Created by: Luis E. Rojas
 
 
 
-- ### The workbook's link for this project is [here](https://public.tableau.com/profile/luis.rojas3315#!/vizhome/CitiBikeAnalytics_16208735130000/BirthYear?publish=yes).
-- The main tool I used on this project is Tableau Public [Tableau] (https://public.tableau.com/).
+- ### The workbook's link for this project is [here](https://public.tableau.com/views/CitiBikeAnalytics_16208735130000/CitiBikeStory?:language=en&:display_count=y&publish=yes&:origin=viz_share_link).
+- The main tool I used on this project is Tableau Public [Tableau](https://public.tableau.com/).
 
 
 ## Overview
