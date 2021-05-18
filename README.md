@@ -33,26 +33,51 @@ However, there is a limit of 15 million records handled by the Tableu Public ser
 
 ## Who rides Citi Bikes?
 
-I built a total of 27 worksheets, 7 dashboards and 1 story. Below is the story, which contains a summary of the most important phenomenas.
+In order to answer this very first question I built a total of 27 worksheets, 7 dashboards and 1 story. Below is the story, which contains a summary of the most important phenomenas.
 
 <img src="https://i.ibb.co/0qQ8TMN/story1.png" width="600" height="400">
 
 Here, as we can notice:
 - There are more subscribers than regular customers.
 - Since the beginning of the pandemics the ridership has decreased 69%
-- There was a high peak between August and October, perhaps caused by the closure of most businesses.
+- There was a high peak between August and October 2020, perhaps caused by the closure of most businesses.
 
 <img src="https://i.ibb.co/gZ0KJVJ/story2.png" width="600" height="400">
 
+According to this:
+- Looks like most riders are under 25 years old. There are still many people of all ages, though.
+- The older is the rider the fewer minutes spent on the trip.
+
 <img src="https://i.ibb.co/VH71BLC/story3.png" width="600" height="400">
+
+- Seems like men are more interested in biking than women.
+- Women have aproximately the same trend to ride on the same age as men.
 
 <img src="https://i.ibb.co/w4hZ8j4/story4.png" width="600" height="400">
 
+- When moving through different months on the NYC Official Map, the number of trips varies. This may be caused by the reopening of businesses.
+- The habits to ride at the same time remain almost the same throughout the year.
+
 <img src="https://i.ibb.co/Hxzdw9r/story5.png" width="600" height="400">
+
+- According to this dataset, there are many bicycles that may be due for maintenance. This implies the program has been successful but it needs maintenance.
 
 <img src="https://i.ibb.co/M9dRYP2/story6.png" width="600" height="400">
 
+- Average trip duration is aroung 20 minutes. However, there are some bike stations with and average above 24 hours. It seems that some stations allow subscribers to return the bikes the next day, or maybe their access is restricted on Sundays or Holidays.
+
 <img src="https://i.ibb.co/VHwmCTB/story7.png" width="600" height="400">
+
+- There is a huge gap among some stations with almost no trips and some other with more than 90 thousand trips.
+- They seem mixed up in the map, though.
+
+## Conclusion, Summary, and Future Work
+
+According to the data obtained from the website, the Citi Bike program has been successful in New York, and as such, it needs to be overseen closely for any change in the environment.
+
+Because of limitations with time and computing power, even though I did much research on the CitiBike website, I could not contribute all my ideas into the models. From the comprehensive literature review, in the future I could expand the analysis further, such as prediction of aggregate trip fees to determine revenue generation, etc.
+
+
 
 ## **_The original text of the homework assignment:_** 
 # Tableau Homework - Citi Bike Analytics
