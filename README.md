@@ -1,7 +1,17 @@
+## About
+   - This is the project I developed for unit 20 of the Boot Camp: [Data Visualization and Analytics](https://bootcamp.uncc.edu/data/)
+   - I created a D3 Interactive Dabbler in order to analyze the current trends shaping people's lives, as well as help readers understand my findings. For more details, see [here](#the-original-text-of-the-homework-assignment).
+   - Here is a snapshot of the app: 
+
+
+<img src="https://i.ibb.co/DQMCMXS/citi-bike-station-bikes.jpg width="600" height="400">
+
+
+- ### The link for the app of this project is [here](https://public.tableau.com/profile/luis.rojas3315#!/vizhome/CitiBikeAnalytics_16208735130000/BirthYear?publish=yes).
+- The main tools I used on this project are: html, css and [D3] (https://d3js.org/).
+   
+## **_The original text of the homework assignment:_** 
 # Tableau Homework - Citi Bike Analytics
-
-
-https://i.ibb.co/5hMGs3W/Picture1.png
 
 ### Before You Begin
 
@@ -17,7 +27,7 @@ https://i.ibb.co/5hMGs3W/Picture1.png
 
 ## Background
 
-![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
+![Citi-Bikes](https://i.ibb.co/DQMCMXS/citi-bike-station-bikes.jpg)
 
 Congratulations on your new job! As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 
