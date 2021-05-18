@@ -1,4 +1,4 @@
-# Analyzing NYC’s CitiBike
+# Analyzing NYC’s Citi Bike
 
 ## About
 
@@ -13,15 +13,21 @@ Created by: Luis E. Rojas
 
 
 
-- ### The link for the app of this project is [here](https://public.tableau.com/profile/luis.rojas3315#!/vizhome/CitiBikeAnalytics_16208735130000/BirthYear?publish=yes).
-- The main tools I used on this project are: html, css and [D3] (https://d3js.org/).
+- ### The link for the workbook for this project is [here](https://public.tableau.com/profile/luis.rojas3315#!/vizhome/CitiBikeAnalytics_16208735130000/BirthYear?publish=yes).
+- The main tool I used on this project is Tableau Public [Tableau] (https://public.tableau.com/).
 
 
-Overview
+## Overview
 
 <img src="https://i.ibb.co/FWn6TW6/Bikes.jpg" width="600" height="400">
 
-Every month, CitiBike releases a treasure trove of data that includes information on each individual trip (e.g. duration, start and end location, subscription type, gender of rider). The data is available here - http://www.citibikenyc.com/system-data. I pulled data to study the behavior during 12 months of the covid-19 pandemics (apr’20 to mar’21). I merged the twelve files since they had similar layout. It was a massive dataset that contains over 19 million records. I took a sample of 500,000 lines in order to process the data more quickly. The code to load and clean is below, followed by an exploration of who rides Citi Bikes, what types of rides they take and their favorite routes.
+Every month, CitiBike releases a treasure trove of data that includes information on each individual trip (e.g. duration, start and end location, subscription type, gender of rider). The data is available here - http://www.citibikenyc.com/system-data. I pulled data to study the behavior during 12 months of the covid-19 pandemics (apr’20 to mar’21). I merged the twelve files since they had similar layout. It was a massive dataset that contained over 19 million records. 
+
+<img src="https://i.ibb.co/1R0JjVw/union.png" width="600" height="400">
+
+However, there is a limit of 15 million records handled by the Tableu Public server, that is why I limited and cleaned up the data at the same time. Dropping rows with unknown gender, birth year before 1940 and trip duration below 140 seconds.
+
+<img src="https://i.ibb.co/G5wRfMw/cleanup.png" width="600" height="400">
 
    
 ## **_The original text of the homework assignment:_** 
