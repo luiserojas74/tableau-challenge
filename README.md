@@ -4,7 +4,7 @@
    - Here is a snapshot of the app: 
 
 
-<img src="https://i.ibb.co/DQMCMXS/citi-bike-station-bikes.jpg" width="600" height="400">
+<img src="https://i.ibb.co/FWn6TW6/Bikes.jpg" width="600" height="400">
 
 
 - ### The link for the app of this project is [here](https://public.tableau.com/profile/luis.rojas3315#!/vizhome/CitiBikeAnalytics_16208735130000/BirthYear?publish=yes).
@@ -27,7 +27,7 @@
 
 ## Background
 
-![Citi-Bikes](https://i.ibb.co/DQMCMXS/citi-bike-station-bikes.jpg)
+![Citi-Bikes](https://i.ibb.co/VCKfVgn/citi-bike-station-bikes.jpg)
 
 Congratulations on your new job! As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 
