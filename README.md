@@ -1,5 +1,7 @@
 # Analyzing New York Citi Bike
 
+<img src="https://i.ibb.co/Lx4WYZ8/citibike-logo.jpg" width="600" height="400">
+
 ## About
 
 Created by: Luis E. Rojas
