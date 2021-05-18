@@ -4,7 +4,7 @@
    - Here is a snapshot of the app: 
 
 
-<img src="https://i.ibb.co/DQMCMXS/citi-bike-station-bikes.jpg width="600" height="400">
+<img src="https://i.ibb.co/DQMCMXS/citi-bike-station-bikes.jpg" width="600" height="400">
 
 
 - ### The link for the app of this project is [here](https://public.tableau.com/profile/luis.rojas3315#!/vizhome/CitiBikeAnalytics_16208735130000/BirthYear?publish=yes).
