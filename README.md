@@ -1,6 +1,6 @@
 # Analyzing New York Citi Bike
 
-<img src="https://i.ibb.co/Lx4WYZ8/citibike-logo.jpg" width="600" height="400">
+<img src="https://i.ibb.co/Lx4WYZ8/citibike-logo.jpg" width="300" height="200">
 
 ## About
 
